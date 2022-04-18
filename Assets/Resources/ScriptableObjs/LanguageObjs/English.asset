@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ba224b5b4e1d1544b34b2d901aaaed6, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: 
+  mLanguageDataList:
+  - LanguageKey: Must_Add
+    LanguageValue: Receive today's gift
+  - LanguageKey: Login_Follow_Gift
+    LanguageValue: Challenge Mode
+  - LanguageKey: Main_Btn_Challenge
+    LanguageValue: Rotate Chest
+  - LanguageKey: Main_Btn_Rotate_Chest
+    LanguageValue: Classic
+  - LanguageKey: Main_Btn_GameMode_Classic
+    LanguageValue: Hard
+  - LanguageKey: Main_Btn_GameMode_Hard
+    LanguageValue: Special Challenge
+  - LanguageKey: Challenge_PopUp_Dialogue_Title
+    LanguageValue: Can you solve this puzzle in 1 minute?
+  - LanguageKey: Challenge_PopUp_Dialogue_Main
+    LanguageValue: Challenge Now
